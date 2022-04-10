@@ -25,11 +25,11 @@ To start the server, run `npm start`. To access the app after starting the serve
 
 ## Example Usage
 
-Deployed App: 
+Deployed App: https://fathomless-ravine-15470.herokuapp.com/
 
 An example screenshot of the application is below.
 
-![screenshot]
+![screenshot](./screenshot/budget%20tracker.png)
 
 ## License
 
